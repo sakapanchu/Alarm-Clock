@@ -94,5 +94,5 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 ![Alarm-Clock]<img src="clock.png">   <br>
 
-#page is live https://sakapanchu.github.io/Alarm-Clock/
+# page is live https://sakapanchu.github.io/Alarm-Clock/
 
