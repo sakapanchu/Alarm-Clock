@@ -94,17 +94,5 @@ Create an alarm clock. Use ONLY vanilla javascript, no libraries or frameworks a
 
 ![Alarm-Clock]<img src="clock.png">   <br>
 
-# LINKS
+#page is live https://sakapanchu.github.io/Alarm-Clock/
 
-<a href = "https://sakapanchu.github.io/CodSoft/Alarm-clock/"> <b>LIVE PRODUCT</b> </a>  &nbsp; <a href = "https://github.com/Pralay2605Q/Alarm-Clock"> <b>CODE</b> </a> <br>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
-<br>
-<strong>Connect With Me @</strong>
-
-<p align="center">
-
-<a href="mailto:pralaykrishna321@gmail.com"><img src="https://img.shields.io/badge/-pralaykrishna321@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-
-</p>
